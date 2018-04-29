@@ -10,8 +10,7 @@
   <packaging>war</packaging>
 
   <name>TestovoeMirgazizov</name>
-
-
+  
   <properties>
     <spring.version>4.2.0.RELEASE</spring.version>
     <spring-security.version>4.0.2.RELEASE</spring-security.version>
